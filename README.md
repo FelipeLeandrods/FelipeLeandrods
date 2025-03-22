@@ -2,9 +2,9 @@
 ## My name is Felipe Leandro.
 - 👨‍💻🚀 I’m currently learning <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width = "17" heidth = "17"/> and <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width = "17" heidth  ="17"/>
 
-- ✍📚I study physics on USP (University of São Paulo)
+- ✍📚I'm studying physics 
 
-- ☀🌑 I live on Brazil
+- ☀🌑 I live in Brazil
 
 Contact: <a href="https://www.linkedin.com/in/felipe-leandrods" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" width = "58" weidth = "58"></a>
 <div>
